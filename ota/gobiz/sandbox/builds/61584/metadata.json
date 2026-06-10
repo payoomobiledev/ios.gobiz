@@ -1,0 +1,18 @@
+{
+  "product": "gobiz",
+  "app": "sandbox",
+  "bundleId": "vn.payoo.gobiz.sandbox",
+  "displayName": "GoBiz Sandbox",
+  "ipaDisplayName": "GoBiz",
+  "version": "1.0.1",
+  "buildNumber": "1",
+  "buildId": "61584",
+  "branch": "otp_github_page",
+  "issue": "",
+  "scheme": "GoBiz Sandbox",
+  "artifactUrl": "https://github.com/payoomobiledev/ios.gobiz/releases/download/build-61584/app.ipa",
+  "installPageUrl": "https://payoomobiledev.github.io/ios.gobiz/ota/gobiz/sandbox/builds/61584/",
+  "manifestUrl": "https://payoomobiledev.github.io/ios.gobiz/ota/gobiz/sandbox/builds/61584/manifest.plist",
+  "ipaUrl": "https://github.com/payoomobiledev/ios.gobiz/releases/download/build-61584/app.ipa",
+  "createdAt": "2026-06-10T08:55:25Z"
+}
